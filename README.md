@@ -1,5 +1,7 @@
 Atue como um especialista em educação financeira digital.
+
 Crie a proposta de um Educador Financeiro Inteligente para jovens universitários.
+
 O sistema deve ajudar o usuário a investir, criar metas de investimento e aprende conceitos básicos de investimentos.
 As principais funcionalidades devem incluir:
 
